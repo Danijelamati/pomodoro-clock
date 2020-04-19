@@ -1,0 +1,32 @@
+html,#wrapper{
+  background-color: cyan;
+}
+
+#element{
+  background: white;
+  
+  height: 500px;
+  width: 700px;
+  
+  border: solid 0.1em black;
+  border-radius: 1em;
+  
+  margin: 100px auto;  
+  font-size: 3em;
+  font-family: Orbitron; 
+}
+
+#timer-length{
+  margin: auto;  
+  text-align:center;
+}
+
+#disp{
+  text-align: center;
+}
+.btn{
+  font-size: 32px;
+}
+#start-reset{
+  
+}
